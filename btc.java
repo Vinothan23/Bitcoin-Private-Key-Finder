@@ -1,4 +1,4 @@
-package btc.btc2;
+package btc.btc2;1Mwp31yoJP9ZQHFHvJ9ZB2KDZF8HVEN
 
 import java.io.FileWriter;
 import java.io.PrintWriter;
@@ -9,7 +9,7 @@ import org.bitcoinj.core.DumpedPrivateKey;
 import org.bitcoinj.core.ECKey;
 import org.bitcoinj.core.NetworkParameters;
 
-public class btc {
+public class btc {1Mwp31yoJP9ZQHFHvJ9ZB2KDZF8HVEN
 	@SuppressWarnings("deprecation")
 	public static void main(String[] args) throws Exception {
 		
